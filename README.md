@@ -1,2 +1,2 @@
-# kayvia_website
-A personal project to create a website resume
+1. Npm i
+2. npm run dev
