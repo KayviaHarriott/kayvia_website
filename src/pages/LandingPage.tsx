@@ -179,12 +179,12 @@ export const LandingPage = () => {
                   }
                 }
               >
-                <CustomWindow
+                {/* <CustomWindow
                   variant={"default"}
                   colorSet={{ primary: "", secondary: "", accent: "" }}
                   data={{ urlTag: "about-us", content: <div><p>One</p></div>}}
                   stylePreferences={{ width: "" }}
-                />
+                /> */}
                 <CustomCarousel items={CarouselItems} />
               </Box>
             </Box>
